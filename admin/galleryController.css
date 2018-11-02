@@ -1,0 +1,23 @@
+.line{
+    display: flex;
+    border-bottom: 1px solid;
+    margin-bottom: 5px;
+}
+.left{
+    width: 100px;
+}
+.left img{
+    width: 100%;
+}
+.middle{
+    margin: auto;
+}
+.right{
+    margin: auto;
+}
+.remove{
+    color: red;
+}
+.save{
+    color: blue;
+}
